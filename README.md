@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ketan Suthar</h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=300000&color=F70000&center=true&vCenter=true&width=400&lines=I'm+Ketan+Suthar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=5000&color=F70000&center=true&vCenter=true&width=400&lines=I'm+Ketan+Suthar" alt="Typing SVG" />
 </h1>
+
 
 
 ---
